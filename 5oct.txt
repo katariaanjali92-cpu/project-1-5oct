@@ -1,0 +1,2 @@
+hello everone!
+i am writing about the first ever project of devops.
